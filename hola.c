@@ -16,5 +16,4 @@ FILE *fp;
 
 extern void initStorageManager (void){
     printf("Store Manager initialized");
-    free(fp);
 }
